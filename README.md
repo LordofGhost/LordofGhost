@@ -10,6 +10,7 @@
 ## About me
 Just a young boy trying to become a good software engineer.
 
+
 ## Skills and Experience (only basic knowledge)
-* 💻 HTML, CSS, JS
-* 🕹 Lua
+* `💻` HTML, CSS, JS
+* `🕹` Lua
