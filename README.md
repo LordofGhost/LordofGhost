@@ -1,4 +1,4 @@
-# Hey, I'm Andreas
+# <p align="center">Hey, I'm Andreas</p>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -14,3 +14,5 @@ Just a young boy trying to become a good software engineer.
 ## Skills and Experience (only basic knowledge)
 * 💻 HTML, CSS, JS
 * 🕹 Lua
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
