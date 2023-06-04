@@ -1,4 +1,4 @@
-<img src="./src/code.gif" alt="Hey">
+<!--<img src="./src/code.gif" alt="Hey">-->
 
 # <p align="center">Hey, I'm Andreas</p>
 
