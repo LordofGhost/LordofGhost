@@ -2,13 +2,8 @@
 
 # <p align="center">Hey, I'm Andreas</p>
 
-<<<<<<< HEAD
-=======
-![codio](./src/welcome-gif/codios/start_class.yml)
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
->>>>>>> 8c1e32fd14e2a93b712b372d959e08692a492504
 <p align="center"> 
   <b>Visitor count</b><br><br>
   <img src="https://profile-counter.glitch.me/lordofghost/count.svg" />
