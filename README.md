@@ -1,6 +1,6 @@
 # <p align="center">Hey, I'm Andreas</p>
 
-![codio](./src/start_class.yml)
+![codio](./src/welcome-gif/start_class.yml)
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
