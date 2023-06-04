@@ -1,8 +1,6 @@
+<img src="./src/code.gif" alt="Hey">
+
 # <p align="center">Hey, I'm Andreas</p>
-
-![codio](./src/start_class.yml)
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   <b>Visitor count</b><br><br>
