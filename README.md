@@ -19,4 +19,4 @@ Just a young boy trying to become a good software engineer.
 * 💻 HTML, CSS, JS
 * 🕹 Lua
 
-![LordofGhost's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordofghost&show_icons=true&theme=transparent)
+<!--![LordofGhost's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordofghost&show_icons=true&theme=transparent)-->
